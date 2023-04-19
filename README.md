@@ -13,7 +13,7 @@
 </br>
 
 **Project Link** - [`https://lemon-mud-075554b00.3.azurestaticapps.net/`](https://lemon-mud-075554b00.3.azurestaticapps.net/) </br>
-**Project Demo Video Link** - [`https://youtube.com`](https://youtube.com)
+**Project Demo Video Link** - [`https://youtu.be/BF0snO8-jN8`](https://youtu.be/BF0snO8-jN8)
 
 </br></br>
 
