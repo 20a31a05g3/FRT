@@ -7,6 +7,12 @@
   Quess, Github and EY.
 </br>
 
+
+## **`TEAM MEMBER DETAILS`** 
+**TEAM MEMBER NAME** - [`KOMMIREDDY PRAVEEN`]
+**TEAM MEMBER GITHUB ACCOUNT** - [`GITHUB URL`](https://GITHUB.COM/20a31a05h5/)
+
+
 ## **`Azure technologies`** used For this Project
 1. Static Web Apps
 2. Health bot
